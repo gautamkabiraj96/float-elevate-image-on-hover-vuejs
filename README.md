@@ -1,2 +1,2 @@
-# float-elevate-image-on-hover-vuejs
+# vue-enlarge-image-on-hover-example
 Created with CodeSandbox
